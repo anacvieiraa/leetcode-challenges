@@ -32,7 +32,8 @@ Each problem is organized in its own directory, containing:
 ## Multilingual Support
 To cater to a broader audience, I provide documentation in both English and Portuguese. The structure for each problem is as follows:
 
-```├── problems\
+```
+├── problems\
 │   └── solutions
 │       ├── 001-two-sum
 │       │   ├── en/
